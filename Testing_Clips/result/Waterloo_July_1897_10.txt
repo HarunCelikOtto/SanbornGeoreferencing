@@ -1,0 +1,6 @@
+[    
+    {"address": "Commercial Street & W 1nd Street", "y": 88, "x": 84},
+    {"address": "Jefferson Street & W 1nd Street", "y": 649, "x": 88},
+    {"address": "Commercial Street & W 2nd Street", "y": 88, "x": 640},
+    {"address": "Jefferson Street & W 2nd Street", "y": 636, "x": 650}
+]

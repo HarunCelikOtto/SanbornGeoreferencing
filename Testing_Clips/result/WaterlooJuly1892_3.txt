@@ -1,0 +1,5 @@
+[
+    {"address": "E 2nd Street & Molberry Street", "y": 769, "x": 230},
+    {"address": "E 2nd Street & Franklin Street", "y": 172, "x": 206},
+    {"address": "E 3rd Street & Molberry Street", "y": 770, "x": 743}
+]
